@@ -9,5 +9,8 @@ For Imagine students interested in practicing our home assignment tests, feel fr
 1. Browse through the assignments based on your role and select the one that interests you the most.
 2. Create a public repository on your GitHub profile with the name of the chosen assignment.
 3. Implement the home assignment in your repository.
-4. Return here and create a pull request to add your implementation to the submissions table.
+4. Return here and create a pull request to add your implementation to the submissions list.
 5. Seek feedback from the Imagine community! Let's learn from each other!
+6. Discuss your submission with your tech coach or other students over at Imagine's Slack!
+
+If you can't find a task that is sutiable for your experience, Let us know! We are working on increasing the number of projects in here!
