@@ -18,4 +18,5 @@ If you require any assistance or support, feel free to let us know. Join our Sla
 Ohha! The participation list is totally empty. Hurry up if your want to have your name
 here before anyone else.
 
-- Example project by @GITHUB_USER_HANDLE. Link.
+- imagine_todo_api by @fuad-works.  [Link](https://github.com/fuad-works/imagine_todo_api).
+
