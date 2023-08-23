@@ -15,7 +15,5 @@ If you require any assistance or support, feel free to let us know. Join our Sla
 
 ## Participation list
 
-Ohha! The participation list is totally empty. Hurry up if your want to have your name
-here before anyone else.
-
-- Example project by @GITHUB_USER_HANDLE. Link.
+- Movies app by [@hobaDevHome](https://github.com/hobaDevHome) -  [Github Link](https://github.com/hobaDevHome/moviesApp) -  [Live Link](https://movisearchapp.netlify.app/). 
+  
