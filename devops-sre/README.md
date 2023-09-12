@@ -15,6 +15,4 @@ If you require any assistance or support, feel free to let us know. Join our Sla
 
 ## Participation list
 
-
 - This is a real task I received from a big german employer, DoT Proxy by [Bashar Dlaleh](https://github.com/BasharDlaleh). [Github Link](https://github.com/BasharDlaleh/DoT-proxy-server).
-
