@@ -1,5 +1,3 @@
-Of course! Here's another DevOps/SRE project idea:
-
 **Project:** DoT Proxy Server
 
 **Objective:**
