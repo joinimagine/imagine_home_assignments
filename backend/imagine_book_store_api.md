@@ -1,5 +1,3 @@
-Of course! Here's another backend project idea:
-
 **Project:** Imagine Bookstore API
 
 **Objective:**

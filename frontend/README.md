@@ -15,5 +15,4 @@ If you require any assistance or support, feel free to let us know. Join our Sla
 
 ## Participation list
 
-- Movies app by [@hobaDevHome](https://github.com/hobaDevHome) -  [Github Link](https://github.com/hobaDevHome/moviesApp) -  [Live Link](https://movisearchapp.netlify.app/). 
-  
+- Movies app by [@hobaDevHome](https://github.com/hobaDevHome) - [Github Link](https://github.com/hobaDevHome/moviesApp) - [Live Link](https://movisearchapp.netlify.app/).
