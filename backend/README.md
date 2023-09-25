@@ -17,3 +17,5 @@ If you require any assistance or support, feel free to let us know. Join our Sla
 
 - Imagine Todo API by @fuad-works. [Link](https://github.com/fuad-works/imagine_todo_api).
 - Imagine Book Store Api by @OpadaAlzaiede. [Link](https://github.com/OpadaAlzaiede/imagine_book_store_api).
+- Django Imagine Book Store Api by @mtami. [Link](https://github.com/mtami/imagine_book_store_api).
+
