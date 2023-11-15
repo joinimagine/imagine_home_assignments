@@ -84,8 +84,8 @@ The API provides the following endpoints:
 - **GET /api/v1/books/{id}**: Retrieve details of a specific book by its ID.
 - **GET /api/v1/books/search**: Search for books by title, author, or genre.
 - **GET /api/v1/cart**: Retrieve the user's shopping cart with a list of added books.
-- **POST /api/v1/cart/add/{id}**: Add a book to the user's shopping cart.
-- **DELETE /api/v1/cart/remove/{id}**: Remove a book from the user's shopping cart.
+- **POST /api/v1/cart/add/{book}**: Add a book to the user's shopping cart.
+- **DELETE /api/v1/cart/remove/{book}**: Remove a book from the user's shopping cart.
 - **GET /api/v1/orders**: Retrieve a list of the user's previous orders.
 - **POST /api/v1/orders/place**: Place a new order with the books currently in the user's shopping cart.
 
