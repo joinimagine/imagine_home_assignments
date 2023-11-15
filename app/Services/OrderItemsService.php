@@ -29,7 +29,7 @@ class OrderItemsService
     }
 
 
-    public function checkExistingBookItem(User $user, Book $book_to_check, int $ordered_quantity):OrderItems
+    public function checkExistingBookItem(User $user, Book $book_to_check, int $ordered_quantity): OrderItems
     {
         $existingOrderItem = $user->orderItems()
             ->whereNull('order_id')
@@ -37,6 +37,11 @@ class OrderItemsService
             ->first();
 
         if ($existingOrderItem) {
+
+            if ($existingOrderItem->quantity + $ordered_quantity > $book_to_check->stock_quantity) {
+
+                throw new OutOfStockException("Sorry, The Ordered quantity of this book" .  " $book_to_check->title " . "is more than the stock quantity", 401);
+            }
             $existingOrderItem->update(['quantity' => $existingOrderItem->quantity + $ordered_quantity]);
             return $existingOrderItem;
         } else {
