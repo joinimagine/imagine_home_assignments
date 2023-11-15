@@ -3,9 +3,7 @@
 namespace App\Services;
 
 use App\Exceptions\OutOfStockException;
-use App\Http\Requests\CreateOrderItemsRequest;
 use App\Models\Book;
-use App\Models\Order;
 use App\Models\OrderItems;
 use App\Models\User;
 use Illuminate\Support\Facades\Log;
