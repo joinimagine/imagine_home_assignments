@@ -24,20 +24,17 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 Route::post('/register', [AuthinticationController::class, 'register']);
 Route::post('/login', [AuthinticationController::class, 'login']);
-//Route::post('/logout', [AuthinticationController::class, 'logout']);
-//Route::post('/obtain-token', [AuthinticationController::class, 'obtainToken']);
 
 
 
-Route::middleware(['auth:sanctum'])->group(function(){
+Route::middleware(['auth:sanctum'])->group(function () {
 
 
-    Route::get('/books-search',[BookController::class,'search']);
-    Route::get('/get-shopping-cart',[ShoppingCartController::class,'getCartItems']);
-    Route::post('/add-shopping-cart',[ShoppingCartController::class,'addCartItem']);
-    Route::delete('/remove-shopping-cart/{book}',[ShoppingCartController::class,'removeCartItem']);
-    Route::get('/get-orders',[OrderController::class,'index']);
-    Route::post('/add-orders',[OrderController::class,'store']);
-    Route::apiResource('books',BookController::class);
-
+    Route::get('/books/search', [BookController::class, 'search']);
+    Route::get('/cart', [ShoppingCartController::class, 'getCartItems']);
+    Route::post('/cart/add', [ShoppingCartController::class, 'addCartItem']);
+    Route::delete('/cart/remove/{book}', [ShoppingCartController::class, 'removeCartItem']);
+    Route::get('/orders', [OrderController::class, 'index']);
+    Route::post('/orders/place', [OrderController::class, 'store']);
+    Route::apiResource('books', BookController::class);
 });
