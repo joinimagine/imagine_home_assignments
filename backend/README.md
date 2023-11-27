@@ -1,16 +1,22 @@
-Welcome to Imagine's home assignments repository! This repository is designed to provide Imagine fellows with an opportunity to practice technical home assignment tests, helping them overcome their concerns and gain confidence in their abilities to secure their dream job in Europe.
+Hello! It's fantastic to have you here!
 
-If you're new to Imagine and stumbled upon this repository, I encourage you to check out Imagine at [Imagine](https://www.joinimagine.com).
+Here's a simplified version of the instructions:
 
-For Imagine fellows interested in practicing our home assignment tests, feel free to explore this repository and choose an assignment that matches your expertise.
+1. Choose a project from the available options.
+2. Create a public repository on your GitHub with the same name as the project.
+3. Start implementing the task and commit your code regularly to showcase your progress.
+4. Push all your code to GitHub.
+5. Create a user-friendly readme that explains your project, shares your code, and provides instructions for running it locally.
+6. (Optional) Deploy your code using any tool that provides free starter account.
+7. Return here and open a pull request (PR) to add your project to the participation list below.
+8. Celebrate your achievements!
 
-**How does it work?**
+If you require any assistance or support, feel free to let us know. Join our Slack community for further engagement.
 
-1. Browse through the assignments based on your role and select the one that interests you the most.
-2. Create a public repository on your GitHub profile with the name of the chosen assignment.
-3. Implement the home assignment in your repository.
-4. Return here and create a pull request to add your implementation to the submissions list.
-5. Seek feedback from the Imagine community! Let's learn from each other!
-6. Discuss your submission with your tech coach or other fellows over at Imagine's Slack!
+## Participation list
 
-If you can't find a task that is sutiable for your experience, Let us know! We are working on increasing the number of projects in here!
+- Imagine Todo API by @fuad-works. [Link](https://github.com/fuad-works/imagine_todo_api).
+- Imagine Book Store Api by @OpadaAlzaiede. [Link](https://github.com/OpadaAlzaiede/imagine_book_store_api).
+- Django Imagine Book Store Api by @mtami. [Link](https://github.com/mtami/imagine_book_store_api).
+- Imagine Book Store API Laravel Framework by @Somar. [link](https://github.com/somarkn99/imagine_book_store_api).
+- Imagine Book Store API with Laravel by @AbdulazizDablo. [link](https://github.com/abdulazizdablo/imagine_book_store_api).
